@@ -3,6 +3,9 @@ Mission B
 - รองรับ Ipad , Desktop
 - Darkmode
 
+### ผู้จัดทำ
+- นายเจษฎา บุญทา (จัส)
+
 ## image
 ### Darkmode  
 - desktop
