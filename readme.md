@@ -8,10 +8,10 @@ Mission B
 - desktop
 ![darkmode](./img/Darkmode-Desktop.png)
 - Ipad
-![darkmode](./img/Darkmode-Ipad.png)
+![darkmode](./img/Darkmode-ipad.png)
 
 ### Lightmode
 - desktop
 ![lightmode](./img/Lightmode-Desktop.png)
 - Ipad
-![lightmode](./img/Lightmode-Ipad.png)
+![lightmode](./img/Lightmode-ipad.png)
