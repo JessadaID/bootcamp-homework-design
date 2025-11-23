@@ -6,15 +6,5 @@ Mission B
 ### ผู้จัดทำ
 - นายเจษฎา บุญทา (จัส)
 
-## image
-### Darkmode  
-- desktop
-![darkmode](./img/Darkmode-Desktop.png)
-- Ipad
-![darkmode](./img/Darkmode-ipad.png)
-
-### Lightmode
-- desktop
-![lightmode](./img/Lightmode-Desktop.png)
-- Ipad
-![lightmode](./img/Lightmode-ipad.png)
+### class ที่ชอบ
+- ชอบ class grid และ m(margin) , p(padding) ของ Tailwind Css เพราะ grid สามารถทำให้การจัด layout สามารถจัดการได้ง่าย ส่วน margin และ padding ชอบเพราะสามารถจัด spacing ได้อิสระและเป็น class ที่ใช้บ่อย
